@@ -1,6 +1,6 @@
 body {
-    background: white;
-    font-family: Arial;
+    background: rgb(172, 159, 159);
+    font-family: Courier;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -13,6 +13,12 @@ body {
     padding: 0;
     font-weight: bold;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.50);
+}
+
+#cabecera #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
 
 #container {
